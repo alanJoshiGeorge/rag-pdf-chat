@@ -1,0 +1,12 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Uploaded files
+app/uploads/
+
+# ChromaDB (if using PersistentClient)
+chroma_db/
